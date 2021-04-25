@@ -20,7 +20,7 @@
   display: none;
   position: absolute;
   bottom: -40px;
-  
+  margin: 16px;
 }
 
 .page:hover .tooltip {
